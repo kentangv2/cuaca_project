@@ -2,7 +2,7 @@
 
 A Flutter App development project.
 
-## INTERPOL MEMBERS 👏
+## INTERPOL MEMBERS 🇮🇩 👏
  
  :heart:THANK YOU FOR CONTRIBUTORS:heart:
  
