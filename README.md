@@ -7,11 +7,11 @@ A Flutter App development project.
  
 :heart: THANK YOU FOR CONTRIBUTORS:heart:
  
- Kusna Reza
+        Kusna Reza
  
- Rego Aldi Pranata
+        Rego Aldi Pranata
  
- Andes Apriansyah
+        Andes Apriansyah
 
  
  This project is a starting point for a Flutter application.
