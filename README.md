@@ -2,12 +2,11 @@
 
 A Flutter App development project.
 
-## Getting Started
- Interpol Members
+## INTERPOL MEMBERS 👏
  
-:heart: THANK YOU FOR CONTRIBUTORS:heart:
+ :heart:THANK YOU FOR CONTRIBUTORS:heart:
  
-        Kusna Reza
+        Kusna Reza 
  
         Rego Aldi Pranata
  
