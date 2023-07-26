@@ -6,4 +6,4 @@ var deskripsi_fitur = '1. Cuaca \nDapatkan informasi cuaca terkini, ramalan cuac
 var deskripsi_1 = 'NewsLine hadir dengan desain antarmuka yang menarik, ramah pengguna, dan mudah digunakan. Kami berkomitmen untuk memberikan pengalaman terbaik kepada pengguna kami dalam mencari informasi terkini dan mengatur aktivitas sehari-hari.';
 var deskripsi_2 = 'Terima kasih telah memilih NewsLine sebagai aplikasi andalan Anda. Jika Anda memiliki pertanyaan, masukan, atau saran, jangan ragu untuk menghubungi tim kami di alamat email dan nomor hp yang tertera';
 var email ='regoaldipran@gmail.com', 'muhammadramadhanrizkyakbar@gmail.com';
-var hp = '+6282179042517';
+var hp = '+62821790425171';
