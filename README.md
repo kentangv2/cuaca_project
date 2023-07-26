@@ -12,8 +12,8 @@ A Flutter App development project.
  
         Andes Apriansyah
 
- 
- This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application.
+
 ## :fire: TERIMAKASIH :fire:
 
 Terimakasih untuk kalian yang udah ikut ber-kontribusi! :heart:
