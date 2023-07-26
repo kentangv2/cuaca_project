@@ -5,7 +5,7 @@ A Flutter App development project.
 ## Getting Started
  Interpol Members
  
- THANK YOU FOR CONTRIBUTORS
+:heart: THANK YOU FOR CONTRIBUTORS:heart:
  
  Kusna Reza
  
